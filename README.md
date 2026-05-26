@@ -46,6 +46,22 @@ This project demonstrates how AI-assisted workflows and structured dashboards ca
 ## Screenshots
 
 Screenshots included in this repository are sanitized and do not contain private employee data.
+## Visual Preview
+
+### AI HR Evaluation System Dashboard
+![AI HR Evaluation System Dashboard](01_AI_HR_Evaluation_System_Dashboard.png)
+
+### AI Manager Insights Dashboard
+![AI Manager Insights Dashboard](02_AI_Manager_Insights_Dashboard.png)
+
+### Performance Analytics Dashboard
+![Performance Analytics Dashboard](03_Performance_Analytics_Dashboard.png)
+
+### OKR & Evaluation Cycle Management
+![OKR Evaluation Cycle Management](04_OKR_Evaluation_Cycle_Management.png)
+
+### People Operations & Org Analytics Dashboard
+![People Operations Org Analytics Dashboard](07_Org_Chart_People_Operations_Dashboard.png)
 
 ## Focus Areas
 
